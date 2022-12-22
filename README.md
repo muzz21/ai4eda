@@ -144,7 +144,7 @@
 
 
 
-### GNN(spectial session)
+### GNN(special session)
 
 1. **Pretraining Graph Neural Networks for few-shot Analog Circuit Modeling and Design.**  [paper](https://arxiv.org/pdf/2203.15913.pdf)
 
@@ -221,6 +221,10 @@
 19. **Deep H-GCN: Fast Analog IC Aging-Induced Degradation Estimation.**  [paper](https://guozz.cn/publication/mltimerdac-22/mltimerdac-22.pdf)
 
     *Z Guo, M Liu, J Gu, S Zhang, DZ Pan, Y Lin.*
+
+20. **High-Level Synthesis Performance Prediction using GNNs: Benchmarking, Modeling, and Advancing.**  [paper](https://arxiv.org/pdf/2201.06848.pdf)
+
+    *Nan Wu, Hang Yang, Yuan Xie, Pan Li, Cong Hao.*
 
 
 
