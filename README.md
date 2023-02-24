@@ -1,9 +1,28 @@
 # ai4eda
 **A collection of design automation algorithms, methodologies, and tools for electronics/photonics, and emerging eda technologies**
 
+Contributed by Yuan Wang.
 
-## analog circuit optimization
-### simulation-based
+## [Content](#content)
+
+<table>
+<tr><td colspan="2"><a href="#analog circuit optimization">1. analog circuit optimization</a></td></tr>
+<tr>
+    <td>&ensp;<a href="#simulation-based">1.1 simulation-based</a></td>
+    <td>&ensp;<a href="#learning-based">1.2 learning-based</a></td>
+</tr>
+<tr>
+    <td>&ensp;<a href="#bayesian optimization">1.3 bayesian optimization</a></td>
+    <td>&ensp;<a href="#GNN">1.4 GNN</a></td>
+</tr>
+<tr><td colspan="2"><a href="#photonics">2. photonics</a></td></tr>
+<tr><td colspan="2"><a href="#survey">3. survey</a></td></tr>
+<tr><td colspan="2"><a href="#tools">4. tools</a></td></tr>
+</table>
+
+
+## [analog circuit optimization](#content)
+### [simulation-based](#content)
 1. **Two-Step RF IC Block Synthesis With Preoptimized Inductors and Full Layout Generation In-the-Loop.**  [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8356050)
 
     *Ricardo Martins, Nuno Lourenço,  Fábio Passos, Ricardo Póvoa.*
@@ -21,7 +40,7 @@
     *B Liu, G Gielen, FV Fernández.*
 
 
-### learning-based
+### [learning-based](#content)
 1. **AutoCkt: Deep Reinforcement Learning of Analog Circuit Designs.**  [paper](https://arxiv.org/pdf/2001.01808.pdf)
 
     *Keertana Settaluri, Ameer Haj-Ali, Qijing Huang, Kourosh Hakhamaneshi, Borivoje Nikolic.*
@@ -111,8 +130,11 @@
 
     *Mohamed Saleh Abouelyazid, Sherif Hammouda, Yehea Ismail.*
 
+23. **Automatic analog schematic diagram generation based on building block classification and reinforcement learning** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9900093)
 
-### bayesian optimization
+    *Hsu, Hung-Yun and Lin, Mark Po-Hung*
+
+### [bayesian optimization](#content)
 
 1. **An Efficient Batch Constrained Bayesian Optimization Approach for Analog Circuit Synthesis via Multi-objective Acquisition Ensemble.**  [paper](https://arxiv.org/pdf/2106.15412.pdf)
 
@@ -144,7 +166,7 @@
 
 
 
-### GNN(special session)
+### [GNN](#content)
 
 1. **Pretraining Graph Neural Networks for few-shot Analog Circuit Modeling and Design.**  [paper](https://arxiv.org/pdf/2203.15913.pdf)
 
@@ -226,16 +248,27 @@
 
     *Nan Wu, Hang Yang, Yuan Xie, Pan Li, Cong Hao.*
 
+21. **Comprehensive Mapping of Continuous/Switching Circuits in CCM and DCM to Machine Learning Domain using Homogeneous Graph Neural Networks** [paper](http://xn--xiaosenhttps-ox5t//ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10006651)
+
+    *Khamis, Ahmed K and Agamy, Mohammed*
+
+22. **Fully automated analog sub-circuit clustering with graph convolutional neural networks** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9116513)
+
+    *Settaluri, Keertana and Fallon, Elias*
+
+23. **Graph learning-based arithmetic block identification** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9643581)
+
+    *He, Zhuolun and Wang, Ziyi and Bail, Chen and Yang, Haoyu and Yu, Bei*
 
 
-## photonics
+## [photonics](#content)
 
 1. **NeurOLight: A Physics-Agnostic Neural Operator Enabling Parametric Photonic Device Simulation.**  [paper](https://arxiv.org/pdf/2209.10098.pdf)
 
     *Jiaqi Gu, Zhengqi Gao, Chenghao Feng, Hanqing Zhu, Ray T. Chen, Duane S. Boning, David Z. Pan.*
 
 
-## survey
+## [survey](#content)
 
 1. **Machine Learning for Electronic Design Automation: A Survey.**  [paper](https://arxiv.org/pdf/2102.03357.pdf)
 
@@ -257,8 +290,12 @@
 
     *Y Ma, Z He, W Li, L Zhang, B Yu.*
 
+6. **Applications of artificial intelligence on the modeling and optimization for analog and mixed-signal circuits: A review** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9383813)
 
-## tools
+    *Fayazi, Morteza and Colter, Zachary and Afshari, Ehsan and Dreslinski, Ronald*
+
+
+## [tools](#content)
 
 1. **MAGICAL: Toward Fully Automated Analog IC Layout Leveraging Human and Machine Intelligence.**  [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8942060)
 
