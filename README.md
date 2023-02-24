@@ -6,13 +6,13 @@ Contributed by Yuan Wang.
 ## [Content](#content)
 
 <table>
-<tr><td colspan="2"><a href="#analog circuit optimization">1. analog circuit optimization</a></td></tr>
+<tr><td colspan="2"><a href="#analog-circuit-optimization">1. analog circuit optimization</a></td></tr>
 <tr>
     <td>&ensp;<a href="#simulation-based">1.1 simulation-based</a></td>
     <td>&ensp;<a href="#learning-based">1.2 learning-based</a></td>
 </tr>
 <tr>
-    <td>&ensp;<a href="#bayesian optimization">1.3 bayesian optimization</a></td>
+    <td>&ensp;<a href="#bayesian-optimization">1.3 bayesian optimization</a></td>
     <td>&ensp;<a href="#GNN">1.4 GNN</a></td>
 </tr>
 <tr><td colspan="2"><a href="#photonics">2. photonics</a></td></tr>
