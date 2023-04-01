@@ -261,30 +261,39 @@ Contributed by Yuan Wang.
     *He, Zhuolun and Wang, Ziyi and Bail, Chen and Yang, Haoyu and Yu, Bei*
 
 24. **Why are Graph Neural Networks Effective for EDA Problems?** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10069851)
+
     *Haoxing Ren, Siddhartha Nath, Yanqing Zhang, Hao Chen and Mingjie Liu*
 
 25. **Deepgate: Learning neural representations of logic gates** [paper](https://arxiv.org/pdf/2111.14616.pdf)
+
     *Min Li, Sadaf Khan, Zhengyuan Shi, Naixing Wang, Yu Huang and Qiang Xu*
 
 26. **GNN-RE: Graph neural networks for reverse engineering of gate-level netlists** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9530566)
+
     *Lilas Alrahis, Abhrajit Sengupta, Johann Knechtel, Satwik Patnaik,  Hani Saleh, Baker Mohammad, Mahmoud Al-Qutayri and Ozgur Sinanoglu*
 
 27. **CktGNN: Circuit Graph Neural Network for Electronic Design Automation** [paper](https://openreview.net/pdf?id=NE2911Kq1sp)
+
     *Zehao Dong, Weidong Cao, Muhan Zhang, Dacheng Tao, Yixin Chen, Xuan Zhang*
 
 28. **Graph-Learning-Driven Path-Based Timing Analysis Results Predictor from Graph-Based Timing Analysis** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10044841)
+
     *Yuyang Ye, Tinghuan Chen, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi*
 
 29. **GNN-based TICER for RC Reduction on Large-scale Interconnect** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9963409)
+
     *Leyun Tian, Yuyang Ye, Hao Yan*
 
 30. **Fast and Accurate Wire Timing Estimation Based on Graph Learning** [paper]
+
     *Yuyang Ye, Tinghuan Chen, Yifei Gao, Hao Yan, Bei Yu, Longxing Shi*
 
 31. **AppGNN: Approximation-Aware Functional Reverse Engineering using Graph Neural Networks** [paper](https://arxiv.org/pdf/2208.10868.pdf)
+
     *Tim Bücher, Lilas Alrahis, Guilherme Paim, Sergio Bampi, Ozgur Sinanoglu, Hussam Amrouch*
 
 32. **GraphClusNet: A Hierarchical Graph Neural Network for Recovered Circuit Netlist Partitioning** [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9858021)
+
     *Xuenong Hong, Tong Lin, Yiqiong Shi, and Bah Hwee Gwee*
 
 
